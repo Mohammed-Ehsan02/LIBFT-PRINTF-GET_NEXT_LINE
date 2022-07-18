@@ -1,4 +1,4 @@
-# LIBFT-PRINTF-GET_NEXT_LINE
+# libft-printf-get_next_line
 
 A combined library consisting of libft, printf and get_next_line.
 The library has libft with it's bonus, prinft only mandatory and get_next_line with bonus.
