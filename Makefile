@@ -47,7 +47,7 @@ NAME			= libft.a
 all:			$(NAME)
 
 $(NAME):		$(OBJS) $(BONUS_OBJS) $(PRINTF_OBJS) $(GNL_OBJS)
-				ar rcs $(NAME) $(OBJS) $(BONUS_OBJS) $(GNL_OBJS)
+				ar rcs $(NAME) $(OBJS) $(BONUS_OBJS) $(GNL_OBJS) $(PRINTF_OBJS)
 
 libftm:			$(OBJS)
 				ar rcs $(NAME) $(OBJS)
